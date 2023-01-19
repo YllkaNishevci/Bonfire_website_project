@@ -1,0 +1,172 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+   height: 700px;
+   background-image: url(/assets/images/2.jpg);
+
+}
+#pnje{
+    font-size: 25px;
+    padding-top: 50px;
+    margin-left: 40%;
+    word-spacing: 15px;
+    letter-spacing: 4px;
+    color: rgb(155, 109, 18);
+    
+}
+
+.top{
+    margin-left: 8%;
+    margin-top: 20px;
+    width: 1300px;
+    height: 50px;
+    border-radius: 50px;
+    background: rgb(30,30,30);
+    background: linear-gradient(0deg, rgba(30,30,30,1) 37%, rgba(116,71,32,1) 100%);
+ 
+   
+   
+}
+#icon{
+width:20%;
+display: inline-block;
+height: 50px;
+}
+
+#icon img{
+margin-top: 5px;
+margin-left: 25%;
+height: 40px;
+width: 40px;
+border-radius: 50%;
+
+}
+#linqet-top{
+  
+   margin-top: 13px;
+   height: 30%;
+   width: 50%;
+   float: right;
+
+}
+#linqet-top a{
+    margin-left:80px;
+    text-decoration: none;
+    color: rgb(155, 109, 18);
+    font-size: 25px;
+     }
+.cont
+{
+width: 99.9%;
+   margin-top: 60px;
+   height:490px;
+   display: flex;
+
+}
+.con1{
+    margin-left: 50px;
+    width: 50%;
+   
+    display: flex;
+    flex-direction:column;
+ 
+
+}
+.con1 h1{
+font-size: 60px;
+color: rgb(169, 124, 8);
+margin:100px 0px 50px 170px;
+}
+.con1 button
+{
+background-color:  rgb(169, 124, 8);
+margin:50px 0px 20px 300px;
+border-radius: 50px;
+width: 250px;
+height: 50px;
+border-bottom: 5px solid black;
+}
+.con1 button a{
+    text-decoration: none;
+    color:black; 
+}
+.con1 button:hover{
+    background-color:rgb(61, 54, 44) ;
+ 
+}
+.con1 button:hover a{
+    text-decoration: none;
+    color:rgb(169, 124, 8); 
+}
+.con2{
+   
+    margin-left: 50px;
+    height: 100%;
+
+}
+
+.con2 img{
+    border-radius: 20%;
+    filter: drop-shadow(71px -20px 30px rgb(89, 67, 6));
+}
+main{
+    background-color:rgba(17,17,17,255);
+    height: 1800px;
+}
+
+#wl{
+    width: 100%;
+    height: 180px;
+ 
+
+}
+#wl p{
+    padding: 30px;
+    margin-left: 650px;
+    padding-top:50px;
+    font-size: 15px;
+    color: rgb(169, 124, 8);
+
+}
+#wl h1{
+margin-left: 560px;
+color: rgb(169, 124, 8);
+font-size: 40px;
+}
+
+
+.snje{
+   
+    width:100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top:70px ;
+
+}
+.par{
+    
+    width: 40%;
+    text-align: center;
+    
+}
+.par p{
+    color: white;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.par a{
+   
+    text-decoration: none;
+    color: rgb(169, 124, 8);
+}
+
+
+.par2{
+  
+   height: 150px;
+width: 40%;
+  background-color: blueviolet;
+}
