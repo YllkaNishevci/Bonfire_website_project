@@ -13,7 +13,7 @@ header{
     margin-left: 40%;
     word-spacing: 15px;
     letter-spacing: 4px;
-    color: rgb(155, 109, 18);
+    color: #B78C44;
     
 }
 
@@ -54,7 +54,7 @@ border-radius: 50%;
 #linqet-top a{
     margin-left:80px;
     text-decoration: none;
-    color: rgb(155, 109, 18);
+    color: #B78C44;
     font-size: 25px;
      }
 .cont
@@ -76,12 +76,12 @@ width: 99.9%;
 }
 .con1 h1{
 font-size: 60px;
-color: rgb(169, 124, 8);
+color: #B78C44;
 margin:100px 0px 50px 170px;
 }
 .con1 button
 {
-background-color:  rgb(169, 124, 8);
+background-color:  #B78C44;
 margin:50px 0px 20px 300px;
 border-radius: 50px;
 width: 250px;
@@ -98,7 +98,7 @@ border-bottom: 5px solid black;
 }
 .con1 button:hover a{
     text-decoration: none;
-    color:rgb(169, 124, 8); 
+    color:#B78C44; 
 }
 .con2{
    
@@ -108,8 +108,8 @@ border-bottom: 5px solid black;
 }
 
 .con2 img{
-    border-radius: 20%;
-    filter: drop-shadow(71px -20px 30px rgb(89, 67, 6));
+    border-radius: 50%;
+    filter: drop-shadow(80px -20px 30px #101110);
 }
 main{
     background-color:rgba(17,17,17,255);
@@ -127,12 +127,12 @@ main{
     margin-left: 650px;
     padding-top:50px;
     font-size: 15px;
-    color: rgb(169, 124, 8);
+    color: #B78C44;
 
 }
 #wl h1{
 margin-left: 560px;
-color: rgb(169, 124, 8);
+color: #B78C44;
 font-size: 40px;
 }
 
@@ -160,7 +160,7 @@ font-size: 40px;
 .par a{
    
     text-decoration: none;
-    color: rgb(169, 124, 8);
+    color: #B78C44;
 }
 
 
