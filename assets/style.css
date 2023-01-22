@@ -1,4 +1,4 @@
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 500px) {
 *{
     margin: 0px;
     padding: 0px;
@@ -390,9 +390,9 @@ height: 380px;
 }
 
   
-  }
+}
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 500px) {
     *{
         margin: 0px;
         padding: 0px;
@@ -575,7 +575,8 @@ height: 380px;
      width: 40%;
     }
     .par2 iframe{
-
+        height:80px ;
+        width:100px;
         margin-left: 20%;
     
     }
@@ -728,9 +729,7 @@ height: 380px;
         padding: 20px 0px 50px 0px;
        
     }
-    .tabela td{
-     
-    }
+ 
     #pic-nje{
         margin-left: 20px;
         height: 50px;
